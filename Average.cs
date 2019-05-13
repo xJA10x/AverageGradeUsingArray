@@ -7,7 +7,7 @@ by Jhoset
 ****************************************/
 
 // Notes:
-  // Average grade = (gradeOne + gradeTwo + gradeThree + numGrades)
+  // Average grade = (gradeOne + gradeTwo + gradeThree + gradeFour) / numGrades
 
   using System;
 
